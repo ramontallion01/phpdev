@@ -1,6 +1,0 @@
-// ...
-app.set('view engine', 'pug');
-
-// serve static files from the `public` folder
-app.use(express.static(__dirname + '/public'));
-// ...
